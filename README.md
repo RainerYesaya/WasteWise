@@ -2,8 +2,6 @@
 
 WasteWise is a full-stack web platform that helps users discover creative ideas, tutorials, and inspiration for turning waste materials into useful products. The website provides a catalog of recycled item ideas, video tutorials, search features, and community interactions to encourage sustainable habits.
 
----
-
 ## 🚀 Features
 
 ### 🔍 Search & Filter  
@@ -30,8 +28,6 @@ WasteWise is a full-stack web platform that helps users discover creative ideas,
 - Sign Up, Log In, Log Out  
 - Dynamic navbar based on login status  
 
----
-
 ## 🛠️ Tech Stack
 
 ### **Frontend**
@@ -52,9 +48,6 @@ WasteWise is a full-stack web platform that helps users discover creative ideas,
 ### **Deployment**
 - Fly.io  
 
----
----
-
 # ▶️ Running the Project (Local)
 
 ## 1️⃣ Clone the repository
@@ -62,9 +55,6 @@ WasteWise is a full-stack web platform that helps users discover creative ideas,
 git clone https://github.com/RainerYesaya/WasteWise.git
 cd WasteWise
 ````
-
----
-
 # 🖥️ FRONTEND (React.js)
 
 ### Navigate:
@@ -109,10 +99,10 @@ npm start
 
 ## 👥 Team Members
 
-*Rainer Yesaya Villareal – Backend, UI/UX
-*Wilson Prajnawira – Frontend & Backend
-*Colin Wilson – Frontend & Backend
-*Theo Xavier Edgard – Prototype & Docs
-*Nixon Raine Vicsant – Dokumentasi & Prototype
+* Rainer Yesaya Villareal – Backend, UI/UX
+* Wilson Prajnawira – Frontend & Backend
+* Colin Wilson – Frontend & Backend
+* Theo Xavier Edgard – Prototype & Docs
+* Nixon Raine Vicsant – Dokumentasi & Prototype
 ---
 
