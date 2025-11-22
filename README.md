@@ -1,4 +1,3 @@
-```md
 # 🌱 WasteWise — Creative Waste Recycling Platform
 
 WasteWise is a full-stack web platform that helps users discover creative ideas, tutorials, and inspiration for turning waste materials into useful products. The website provides a catalog of recycled item ideas, video tutorials, search features, and community interactions to encourage sustainable habits.
